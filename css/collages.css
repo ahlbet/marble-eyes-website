@@ -1,0 +1,11 @@
+.gallery {
+  margin-top: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img {
+  max-height: 600px;
+  margin: 0 1em 1em;
+}

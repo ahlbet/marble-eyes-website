@@ -1,7 +1,16 @@
+body {
+  background-image: url(../img/fb-collages/2.jpg);
+}
+
 .soundcloud {
   min-height: 100vh;
   /*margin-top: -56px;*/
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+iframe {
+  /*border: 5px solid black;*/
+  box-shadow: 1px 1px 5px black;
 }
