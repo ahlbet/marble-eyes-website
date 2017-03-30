@@ -1,3 +1,22 @@
 body {
   min-height: 100vh;
+  background-image: url(/img/fb-collages/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*font-family: 'Raleway', sans-serif;*/
+}
+
+.home-title {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: white;
+}
+
+.home-title h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 6em;
+  text-shadow: 2px 2px 5px #333;
 }
